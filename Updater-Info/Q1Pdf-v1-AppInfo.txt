@@ -1,0 +1,1 @@
+{"AppInfoURL":"https://raw.github.com/OguzhanE/OgzInformationRaw/master/Q1PDFAppInfo-v1","AppLastVersion":1.0,"NewFeaturesContent":"","NewFeaturesTitle":"","AppLink":"http://ogze.wordpress.com/Quick1PDF"}
