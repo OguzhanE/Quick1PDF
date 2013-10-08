@@ -1,0 +1,1 @@
+{"AppInfoURL":"https://raw.github.com/OguzhanE/Quick1PDF/master/Updater-Info/Q1PDF-WP8-v1.2.txt","AppLastVersion":1.2,"NewFeaturesContent":"newFeat","NewFeaturesTitle":"newFeatTitle","AppLink":"http://www.windowsphone.com/s?appid=c569ae3b-d5ff-422b-8476-2f7e6a2a1f95"}
