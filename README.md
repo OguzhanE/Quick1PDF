@@ -1,7 +1,6 @@
-Quick1PDF
+Quick1PDF Reader & Creator
 =========
 ★ PDF Reader and Creator. Your files Send via Email, Bluetooth or Share via Skydrive ★ 
-♥Thanks for feedbacks!♥  If you like it, please rate 5 stars so I can continue to make awesome updates :)
 
 Read PDF documents (v1.4)
 • Open PDF files from website via Internet Explorer, Skydrive, email attachment, etc.
@@ -23,6 +22,8 @@ Powerful Skydrive Manager
 • Open your PDF documents, video, audio, text files.
 • Manage your files – move, delete, rename, or create new folders.
 • Upload photos from your phone.
-• DOWNLOAD your PDF documents, video, audio, text files.
+• Download your PDF documents, video, audio, text files.
 • Your downloaded files - Send Via Email or Upload to Skydrive
-• Supports downloaded MP3 files play in BACKGROUND
+• Supports downloaded MP3 files play in background
+Windows Phone Store Link:
+http://www.windowsphone.com/en-us/store/app/quick1pdf-reader-creator/c569ae3b-d5ff-422b-8476-2f7e6a2a1f95
