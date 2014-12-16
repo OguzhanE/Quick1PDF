@@ -4,15 +4,10 @@ Quick1PDF Reader & Creator
 
 Read PDF documents (v1.4)
 • Open PDF files from website via Internet Explorer, Skydrive, email attachment, etc.
-
 • Open password-protected PDF files
-
 • Send via Email, Bluetooth or Upload to Skydrive
-
 • Supports sending multiple files via email (PDF documents, photos, videos)
-
 • Integrate with SkyDrive for fast and easy access to your clouded files
-
 • Easily zoom in on text or images for a closer view
 • Search text to find specific information
 • Save PDF files to Quick1PDF 
